@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TubieClone/static/css/main.7064deb2.css",
+    "main.js": "/TubieClone/static/js/main.fe261998.js",
+    "index.html": "/TubieClone/index.html",
+    "main.7064deb2.css.map": "/TubieClone/static/css/main.7064deb2.css.map",
+    "main.fe261998.js.map": "/TubieClone/static/js/main.fe261998.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7064deb2.css",
+    "static/js/main.fe261998.js"
+  ]
+}
